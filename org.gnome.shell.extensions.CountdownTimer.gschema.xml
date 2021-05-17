@@ -1,0 +1,10 @@
+<?xml versions="1.0" encodings="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.CountdownTimer" path ="org.gnome.shell.extensions.CountdownTimer">
+        <key type="i" name="start-time">
+            <default>0900</default>
+            <summary>Start time</summary>
+            <description>Start time</description>
+        </key>
+    </schema>
+</schemalist>

@@ -1,0 +1,10 @@
+{
+  "description": "Countdown Timer on your top panel",
+  "name": "Countdown Timer",
+  "shell-version": [
+    "3.36"
+  ],
+  "url": "",
+  "uuid": "CountdownTimer@krystelarrianecortez@gmail.com",
+  "version": 1
+}
